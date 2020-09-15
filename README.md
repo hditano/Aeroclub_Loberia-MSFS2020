@@ -1,4 +1,4 @@
-Discord: julysfire#9465 MSFS2020: blackflame0729
+Discord: Hernan#2501 MSFS2020: Chukakiss
 
 Description
 LIB - Aeroclub Loberia, Buenos Aires, Argentina
