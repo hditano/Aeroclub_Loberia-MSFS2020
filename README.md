@@ -1,6 +1,7 @@
 # Aeroclub Loberia
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+![Alt text](https://i1.lensdump.com/i/00SPSF.jpg)
+
 
 Author: Hernan Di Tano
 
