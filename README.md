@@ -13,12 +13,19 @@ Facebook: https://www.facebook.com/piperpa11oga/
 
 Google Maps https://www.google.com/maps/place/Aeroclub+Loberia/@-38.1867692,-58.7895591,15z/data=!4m2!3m1!1s0x0:0xec772264b4cb4732?sa=X&ved=2ahUKEwi2_uTX2-vrAhUpD7kGHbb4DCIQ_BIwCnoECBkQCA
 
+
 Features
+
 Hand crafted airport and scenery
+
 4 GA parking spots
+
 Added custom objects from airport 
+
 Better ground textures and vegetation
+
 Realistic look and feel
+
 Realistic night lighting around the hangars
 
 
