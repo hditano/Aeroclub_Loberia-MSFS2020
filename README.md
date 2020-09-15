@@ -16,17 +16,17 @@ Google Maps https://www.google.com/maps/place/Aeroclub+Loberia/@-38.1867692,-58.
 
 Features
 
-*Hand crafted airport and scenery
+1. Hand crafted airport and scenery
 
-*4 GA parking spots
+2. GA parking spots
 
-*Added custom objects from airport 
+3. Added custom objects from airport 
 
-*Better ground textures and vegetation
+4. Better ground textures and vegetation
 
-*Realistic look and feel
+5. Realistic look and feel
 
-*Realistic night lighting around the hangars
+6. Realistic night lighting around the hangars
 
 
 ---Installation Instructions---
